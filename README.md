@@ -6,7 +6,7 @@
 <img align="right" src="https://moe-counter.glitch.me/get/@:Starry-r?theme=rule34">
 
 <ul>
-    <li> 🌱 I’m currently learning TypeScript、Vue3.</li>
+    <li> 🌱 I’m currently learning Vue、JavaScript、Java.</li>
 </ul>
 
 ### 🌗 Development Breakdown
